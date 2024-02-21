@@ -1,0 +1,36 @@
+@media screen and (min-width: 300px) and (max-width: 500px){
+    
+    .body{
+        font-size: 12px;
+        flex-direction: column;
+    }
+
+    header{
+        width: 100%;
+        
+    }
+
+    #span{
+      display: none;
+    }
+
+    main{
+        width: 100%;
+    }
+
+    .section{
+        flex-direction: column;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
